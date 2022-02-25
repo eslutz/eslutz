@@ -18,12 +18,6 @@ Feel like reaching out for some reason, you can reach me at [eric.slutz@icloud.c
 
 He/Him/His
 
-#### ⚡ Fun facts:
-
-- I like to go hiking.
-- I enjoy binging tv shows.
-- I have a habit of trying to make everything in my house part of a smart home lol. 
-
 <!--
 **eslutz/eslutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
