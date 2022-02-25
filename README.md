@@ -1,6 +1,6 @@
-### Hi! 👋
+## Hi, I'm Eric! 👋
 
-My name is Eric.  I started my journey learning to code in high school.  I continued exapnding my skills in college, while obtaining my B.S. in Information Technology at Oakland University.  However, after graduating I took a job that didn't need any programming skills. After ten years, needing a carrer change, I had an opportunity to go through a coding bootcamp at my work.  I had forgotten how much I enjoyed the challenges and problem solvng that came with programming.  I now have a job as a software engineer and am continuing to grow and learn new skills.
+I started my journey learning to code in high school.  I continued exapnding my skills in college, while obtaining my B.S. in Information Technology at Oakland University.  However, after graduating I took a job that didn't need any programming skills. After ten years, needing a carrer change, I had an opportunity to go through a coding bootcamp at my work.  I had forgotten how much I enjoyed the challenges and problem solvng that came with programming.  I now have a job as a software engineer and am continuing to grow and learn new skills.
 
 - 🔭 I'm not currently working on any personal projects.  Between work, school, and trying to have a life, it's hard to find time.
 
