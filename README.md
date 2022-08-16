@@ -6,7 +6,7 @@ I started my journey learning to code in high school.  I continued exapnding my 
 
 - 🌱 I'm currently back in school, pursuing a second degree.  This time a B.S. in Computer Science with a concentration in Software Engineering at Southern New Hampshire Univeristy.  As part of earning this degree I am learning Python, Java, and C++ as they are all used through the various classes.  At the same time, I am continuing to expand my frontend and backend skills in C# and Typescript every day at my job.  I've also been expanding my knowledge around CI/CD, writing config files for CircleCI workflows.  I'm also starting to get into IAC and K8s with my work, which has been a learning experience.  Additionally, I've managed to collect several Udemy courses covering a range of topics I would like to complete.
 
-- 👀 I’m interested in learning Swift and about iOS app development.
+- 👀 I’m interested in learning Swift and about iOS app development.  I'm also interested in learning Ruby.
 
 - 📫 How to reach me: Feel like reaching out for some reason, you can reach me at [eric@ericslutz.com](mailto:eric@ericslutz.com) and say hi.
 
