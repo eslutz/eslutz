@@ -8,7 +8,7 @@ I started my journey learning to code in high school.  I continued expanding my 
 
 - 👀 I’m interested in learning Swift and about iOS app development.  I'm also interested in learning Ruby.
 
-- 📫 How to reach me: Feel like reaching out for some reason, you can reach me at [eric@ericslutz.com](mailto:eric@ericslutz.com) and say hi.
+- 📫 How to reach me: Feel like reaching out for some reason, you can reach me at [eric@ericslutz.dev](mailto:eric@ericslutz.dev) and say hi.
 
 - 😄 Pronouns: He/Him/His
 <!--
