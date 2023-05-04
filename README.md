@@ -1,16 +1,14 @@
 ## Hi, I'm Eric! 👋
 
-I started my journey learning to code in high school.  I continued expanding my skills in college, while obtaining my B.S. in Information Technology at Oakland University.  However, after graduating I took a job that didn't need any programming skills. After ten years, needing a career change, I had an opportunity to go through a coding bootcamp at my work.  I had forgotten how much I enjoyed the challenges and problem solving that came with programming.  I now have a job as a software engineer and am continuing to grow and learn new skills.
+I started my journey learning to code in high school.  I continued expanding my skills in college, while obtaining my B.S. in Information Technology at Oakland University.  After graduation though I took a job in IT support that didn't require any programming skills. After ten years, needing a career change, I had an opportunity to go through an internal coding bootcamp at a previous job.  I had forgotten how much I enjoyed the challenges and problem solving that came with programming.  I've been working as a software engineer since and am continuing to grow and learn new skills.
 
-- 🔭 I'm not currently working on any personal projects.  Between work, school, and trying to have a life, it's hard to find time.
+- 🔭 I'm not currently working my way throufh a list of Udemy courses I've collected.  Between work, school, and trying to have a life, it's hard to find time, but I try.  I also have a few ideas for personal projects floating around in my head that I'd like to get to after I finish school.
 
-- 🌱 I'm currently back in school, pursuing a second degree.  This time a B.S. in Computer Science with a concentration in Software Engineering at Southern New Hampshire University.  As part of earning this degree I am learning Python, Java, and C++ as they are all used through the various classes.  At the same time, I am continuing to expand my frontend and backend skills in C# and Typescript every day at my job.  I've also been expanding my knowledge around CI/CD, writing config files for CircleCI and GitHub Actions workflows.  I'm also starting to get into IAC and K8s with my work, which has been a learning experience.  Additionally, I've managed to collect several Udemy courses covering a range of topics I would like to complete.
+- 🌱 I'm currently back in school, pursuing a second degree.  This time a B.S. in Computer Science with a concentration in Software Engineering at Southern New Hampshire University.  I've had opportunities to use Python, Java, and C++ through the various classes as well as learn some OpenGL, MongoDB, writing programs for embedded systems, using Android Studio to create a mobile app in Java, and using Jupyter Notbooks, Python, and TensorFlow to learn about and practice different methods of machine learning.<br /><br />At the same time, I am continuing to expand my frontend and backend skills in C# and Typescript every day at my job.  I've also been expanding my knowledge around CI/CD, writing config files for CircleCI and GitHub Actions workflows.  I'm also starting to get into IAC and K8s with my work, which has been a learning experience.
 
-- 👀 I’m interested in learning Swift and about iOS app development.  I'm also interested in learning Ruby.
+- 👀 I’m interested in learning Swift and about iOS app development, as well as learning Ruby.  I'm also interested in learning more about infrastructure as code and Kubernetes (some brief exposure on a project got me interested in learning more about those).
 
 - 📫 How to reach me: Feel like reaching out for some reason, you can reach me at [eric@ericslutz.dev](mailto:eric@ericslutz.dev) and say hi.
-
-- 😄 Pronouns: He/Him/His
 <!--
 ***
 
