@@ -1,30 +1,59 @@
-# Hi, I'm Eric! 👋
+# Eric Slutz
 
-I started my journey learning to code in high school.  I continued expanding my skills in college, while obtaining my B.S. in Information Technology at Oakland University.  However, after graduation I took a job in IT support that didn't utilize my programming knowledge. After ten years, and needing a career change, I had an opportunity to go through an internal coding bootcamp at a previous employer.  I'd forgotten how much I enjoyed the challenges and problem solving that came with programming.  Since then I've been working as a software engineer and am constantly looking to continue growing and learning new skills!
+Software Engineer | Azure | .NET | AI-Assisted Development
 
-- 🔭 Current work: I'm currently working my way through a list of Udemy courses I've collected.  Between work, family, and trying to have a life, it's hard to find time, but I try.  I also have a several ideas for personal projects floating around in my head that I'm starting to get organized and work on.
+### About
 
-- 🌱 Learning: In addition to my B.S. in Information Technology from Oakland University, I recently completed my second degree, a B.S. in Computer Science with a concentration in Software Engineering from Southern New Hampshire University.  Between both degrees I've had opportunities to use Python, Java, and C++, as well as learn about OpenGL, MongoDB, writing programs for embedded systems, using Android Studio to create a mobile app in Java, and using Jupyter Notebooks, Python, and TensorFlow to test out different methods of machine learning.<br /><br />At the same time, I am continuing to expand my frontend and backend skills in C# and JavaScript/Typescript through my work, as well as gain valuable experience writing SQL queries for relations databases.  I've also been expanding my knowledge around CI/CD, building workflows for GitHub Actions, Azure Pipelines, and CircleCI.
+- 💼 Software Engineer II at CarMax
+- ☁️ Building cloud-native solutions on Microsoft Azure
+- 🤖 Exploring AI-assisted software engineering workflows
+- 🎮 Developing Blockiverse VR for Meta Quest
+- 📺 Building A Playa Named Gus for Apple platforms
+- 🏠 Self-hosting enthusiast and home automation tinkerer
 
-- 👀 Interests: I’m interested in learning Swift and about iOS app development.  I'm also interested in learning more about infrastructure as code and Kubernetes (some brief exposure on a work project got me interested in learning more).
+### Featured Projects
 
-- 📫 How to reach me: Feel like reaching out for some reason, you can reach me at [eric@ericslutz.dev](mailto:eric@ericslutz.dev) and say hi.
-<!--
-***
+#### 🎮 [Blockiverse VR](https://github.com/eslutz/Blockiverse-VR)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=eslutz&langs_count=8&layout=compact)-->
-<!--https://github.com/anuraghazra/github-readme-stats-->
-<!--
-**eslutz/eslutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A voxel-based sandbox game being developed specifically for virtual reality on Meta Quest. The project focuses on immersive world-building, exploration, and cooperative multiplayer designed for VR from the ground up.
 
-Here are some ideas to get you started:
+**Website:** [blockiversevr.com](https://blockiversevr.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📺 [A Playa Named Gus](https://github.com/eslutz/A-Playa-Named-Gus)
+
+A native Apple-platform Jellyfin client designed to feel like a first-party app across iPhone, iPad, Apple TV, Mac, Vision Pro, and Apple Watch. The project prioritizes native frameworks, platform conventions, accessibility, and deep integration with the Apple ecosystem.
+
+**Website:** [gus.ericslutz.dev](https://gus.ericslutz.dev)
+
+### Current Stack
+
+**Backend**
+- C#
+- .NET
+- Node.js
+
+**Frontend & Client**
+- TypeScript
+- Angular
+- React
+- Swift
+- SwiftUI
+
+**Cloud & DevOps**
+- Azure
+- AWS
+- Bicep
+- Azure DevOps
+- GitHub Actions
+
+### Currently Exploring
+
+- Cloud architecture and platform engineering
+- Native Apple app development with SwiftUI
+- Virtual reality game development
+- Home automation with HomeKit
+- Self-hosted infrastructure and services
+
+🌐 **Website:** [ericslutz.dev](https://ericslutz.dev)
+📧 **Email:** [eric@ericslutz.dev](mailto:eric@ericslutz.dev)
+💼 **LinkedIn:** [linkedin.com/in/ericslutz](https://linkedin.com/in/ericslutz)
