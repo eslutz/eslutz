@@ -2,10 +2,10 @@
 
 **Software Engineer | Azure | .NET | AI-Assisted Engineering**
 
-- 💼 Software Engineer II at CarMax
+- 💼 Software Engineer at Credence
 - 🤖 Exploring AI-assisted software engineering workflows
-- 🎮 Developing Blockiverse VR for Meta Quest
-- 📺 Building A Playa Named Gus for Apple platforms
+- 🎮 Developing Blockiverse VR game for Meta Quest
+- 📺 Building A Playa Named Gus, a client app for Jellyfin, for Apple platforms
 - 🏠 Self-hosting enthusiast and home automation tinkerer
 
 ## Current Stack
@@ -21,7 +21,7 @@
 - Cloud architecture and platform engineering
 - Native Apple app development with SwiftUI
 - Virtual reality game development
-- Home automation with HomeKit
+- Home automation with HomeKit & Home Assistant
 - Self-hosted infrastructure and services
 
 🌐 [ericslutz.dev](https://ericslutz.dev) • 💼 [linkedin.com/in/ericslutz](https://linkedin.com/in/ericslutz) • 📧 [eric@ericslutz.dev](mailto:eric@ericslutz.dev)
